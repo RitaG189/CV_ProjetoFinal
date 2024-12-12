@@ -1,0 +1,61 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.pidb
+*.booproj
+*.svd
+
+# Unity Asset Store tools
+/[Aa]ssets/[Aa]ssetsPackages/
+/[Aa]ssets/Plugins/Editor/
+
+# Visual Studio files
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+
+# Rider IDE files
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.apk
+*.aab
+*.exe
+*.app
+*.ipa
+*.dll
+*.class
+*.jar
+*.java
+*.csv
+
+# Miscellaneous
+*.swp
+*.tmp
+*.temp
+*.bak
+*.backup
+*.orig
+*.save
+*.blend1
+*.blend2
+*.meta
