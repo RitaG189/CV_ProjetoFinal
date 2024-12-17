@@ -84,8 +84,8 @@
     <Compile Include="Library/PackageCache/com.unity.testtools.codecoverage@1.2.6/Editor/CoverageStats/CoverageStats.cs" />
     <Compile Include="Library/PackageCache/com.unity.testtools.codecoverage@1.2.6/Editor/ReportGenerator/CoverageReportGenerator.cs" />
     <Compile Include="Library/PackageCache/com.unity.testtools.codecoverage@1.2.6/Editor/Filtering/AssemblyFiltering.cs" />
-    <Compile Include="Library/PackageCache/com.unity.testtools.codecoverage@1.2.6/Editor/CoverageWindow/PathFilterType.cs" />
     <Compile Include="Library/PackageCache/com.unity.testtools.codecoverage@1.2.6/Editor/ReportGenerator/ReportGeneratorStyles.cs" />
+    <Compile Include="Library/PackageCache/com.unity.testtools.codecoverage@1.2.6/Editor/CoverageWindow/PathFilterType.cs" />
     <Compile Include="Library/PackageCache/com.unity.testtools.codecoverage@1.2.6/Editor/Analytics/CoverageAnalyticsEvent.cs" />
     <Compile Include="Library/PackageCache/com.unity.testtools.codecoverage@1.2.6/Editor/CoverageReporterListener.cs" />
     <Compile Include="Library/PackageCache/com.unity.testtools.codecoverage@1.2.6/Editor/CoverageWindow/FolderDropDownMenu.cs" />
